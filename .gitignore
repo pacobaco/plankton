@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+proposal_cache.json
+*.DS_Store
+.env
