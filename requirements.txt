@@ -1,0 +1,9 @@
+### 📦 `requirements.txt`
+```txt
+flask
+sentence-transformers
+scikit-learn
+streamlit
+numpy
+pandas
+torch
